@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #344356;
+      }
+    </style>
+  </defs>
+  <g id="chevron-right" transform="translate(-16298 3350) rotate(180)">
+    <rect id="Rectangle_1533" data-name="Rectangle 1533" class="cls-1" width="50" height="50" transform="translate(-16348 3300)"/>
+    <g id="Small_Chevron" data-name="Small Chevron" transform="translate(-16282.385 2868.645) rotate(90)">
+      <g id="Blog_nav_right_" data-name="Blog (nav right)" transform="translate(471.203 34.208) rotate(90)">
+        <path id="Path_259" data-name="Path 259" class="cls-2" d="M12.131,13.5,2.938.766A1.672,1.672,0,0,0,1.694,0,1.561,1.561,0,0,0,.518.766a2.813,2.813,0,0,0,0,3.254l8.019,11.1L.518,26.227a2.813,2.813,0,0,0,0,3.254,1.378,1.378,0,0,0,2.419,0l9.194-12.731a2.746,2.746,0,0,0,.484-1.627A2.559,2.559,0,0,0,12.131,13.5Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

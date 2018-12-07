@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #344356;
+      }
+    </style>
+  </defs>
+  <g id="return-to-top" transform="translate(16426 -3517)">
+    <rect id="Rectangle_1533" data-name="Rectangle 1533" class="cls-1" width="50" height="50" transform="translate(-16426 3517)"/>
+    <g id="Button:_Return_to_Top" data-name="Button: Return to Top" transform="translate(-16567.5 3524.127)">
+      <g id="Blog_nav_right_" data-name="Blog (nav right)" transform="translate(149.5 20.797) rotate(-90)">
+        <path id="Path_259" data-name="Path 259" class="cls-2" d="M14.352,14.808,3.476.84A2.009,2.009,0,0,0,2,0,1.867,1.867,0,0,0,.613.84a2.905,2.905,0,0,0,0,3.571L10.1,16.594.613,28.776a2.905,2.905,0,0,0,0,3.571,1.694,1.694,0,0,0,2.862,0L14.352,18.379a2.859,2.859,0,0,0,.572-1.785A2.667,2.667,0,0,0,14.352,14.808Z" transform="translate(0)"/>
+      </g>
+      <g id="Blog_nav_right_2" data-name="Blog (nav right)" transform="translate(149.5 30.868) rotate(-90)">
+        <path id="Path_259-2" data-name="Path 259" class="cls-2" d="M14.352,14.627,3.476.83A2.015,2.015,0,0,0,2,0,1.871,1.871,0,0,0,.613.83a2.842,2.842,0,0,0,0,3.527L10.1,16.39.613,28.424a2.842,2.842,0,0,0,0,3.527,1.705,1.705,0,0,0,2.862,0l10.876-13.8a2.8,2.8,0,0,0,.572-1.764A2.613,2.613,0,0,0,14.352,14.627Z" transform="translate(0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #344356;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="menu" transform="translate(16426 -3172)">
+    <rect id="Rectangle_1533" data-name="Rectangle 1533" class="cls-1" width="50" height="50" transform="translate(-16426 3172)"/>
+    <g id="Menu-2" data-name="Menu" transform="translate(-16416 3190)">
+      <g id="Menu_Icon" data-name="Menu Icon" transform="translate(0 -2)">
+        <path id="Path_209" data-name="Path 209" class="cls-2" d="M0,0H30" transform="translate(0 1)"/>
+        <line id="Line_15" data-name="Line 15" class="cls-2" x2="30" transform="translate(0 9.303)"/>
+        <path id="Path_347" data-name="Path 347" class="cls-2" d="M0,0H30" transform="translate(0 17.605)"/>
+      </g>
+    </g>
+  </g>
+</svg>

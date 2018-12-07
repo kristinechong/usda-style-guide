@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #344356;
+      }
+    </style>
+  </defs>
+  <g id="exit" transform="translate(16426 -3691)">
+    <g id="expand" transform="translate(0 116)">
+      <rect id="Rectangle_1533" data-name="Rectangle 1533" class="cls-1" width="50" height="50" transform="translate(-16426 3575)"/>
+    </g>
+    <path id="Union_9" data-name="Union 9" class="cls-2" d="M15,17.727,2.727,30,0,27.272,12.272,15,0,2.727,2.727,0,15,12.272,27.272,0,30,2.727,17.727,15,30,27.272,27.272,30Z" transform="translate(-16416 3701)"/>
+  </g>
+</svg>

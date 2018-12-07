@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #344356;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="search" transform="translate(16426 -3230)">
+    <g id="search-2" data-name="search" transform="translate(-78)">
+      <rect id="Rectangle_1533" data-name="Rectangle 1533" class="cls-1" width="50" height="50" transform="translate(-16348 3230)"/>
+    </g>
+    <g id="Search_Icon" data-name="Search Icon" transform="translate(-17638.973 3201)">
+      <g id="Ellipse_1" data-name="Ellipse 1" class="cls-2" transform="translate(1219.974 36)">
+        <ellipse class="cls-4" cx="16.016" cy="16.011" rx="16.016" ry="16.011"/>
+        <ellipse class="cls-5" cx="16.016" cy="16.011" rx="14.516" ry="14.511"/>
+      </g>
+      <path id="Path_224" data-name="Path 224" class="cls-3" d="M9.728,0,0,9.732" transform="translate(1245.44 72.48) rotate(-90)"/>
+    </g>
+  </g>
+</svg>
