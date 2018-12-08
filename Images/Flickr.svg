@@ -1,0 +1,37 @@
+<svg id="Flickr" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.184 50.185">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #344356;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #344356;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="RSS" transform="translate(0 0)">
+    <g id="RSS-2" data-name="RSS" transform="translate(0)">
+      <g id="Google_" data-name="Google+">
+        <g id="Instagram">
+          <g id="Ellipse_2" data-name="Ellipse 2" class="cls-1">
+            <circle class="cls-3" cx="25.092" cy="25.092" r="25.092"/>
+            <circle class="cls-4" cx="25.092" cy="25.092" r="23.592"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="flickr-logo-of-two-dots" transform="translate(14.86 19.826)">
+    <path id="Flickr-2" data-name="Flickr" class="cls-2" d="M21.607,29.8A4.842,4.842,0,1,1,16.765,25,4.821,4.821,0,0,1,21.607,29.8ZM4.842,25a4.8,4.8,0,1,0,4.842,4.8A4.822,4.822,0,0,0,4.842,25Z" transform="translate(0 -25)"/>
+  </g>
+</svg>

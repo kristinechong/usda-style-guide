@@ -1,0 +1,31 @@
+<svg id="Facebook" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.184 50.185">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #344356;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #344356;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="facebook-logo" transform="translate(18.996 14.86)">
+    <path id="Path_248" data-name="Path 248" class="cls-1" d="M33.319,0l-2.8,0c-3.148,0-5.182,2.087-5.182,5.318V7.769H22.518a.441.441,0,0,0-.441.441v3.552a.441.441,0,0,0,.441.441h2.817v8.964a.44.44,0,0,0,.441.441h3.676a.441.441,0,0,0,.441-.441V12.2h3.294a.44.44,0,0,0,.441-.441V8.21a.441.441,0,0,0-.441-.441h-3.3V5.691c0-1,.238-1.506,1.539-1.506h1.888a.441.441,0,0,0,.44-.441V.445A.441.441,0,0,0,33.319,0Z" transform="translate(-22.077)"/>
+  </g>
+  <g id="Facebook-2" data-name="Facebook">
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-2">
+      <circle class="cls-3" cx="25.092" cy="25.092" r="25.092"/>
+      <circle class="cls-4" cx="25.092" cy="25.092" r="23.592"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<svg id="Instagram" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.184 50.185">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #344356;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #344356;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Instagram-2" data-name="Instagram" transform="translate(0)">
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-1" transform="translate(0)">
+      <circle class="cls-3" cx="25.092" cy="25.092" r="25.092"/>
+      <circle class="cls-4" cx="25.092" cy="25.092" r="23.592"/>
+    </g>
+  </g>
+  <g id="instagram-3" data-name="instagram" transform="translate(14.008 14.008)">
+    <g id="Group_143" data-name="Group 143">
+      <g id="Group_142" data-name="Group 142">
+        <path id="Path_249" data-name="Path 249" class="cls-2" d="M16.043,0H7.292A7.293,7.293,0,0,0,0,7.292v8.751a7.293,7.293,0,0,0,7.292,7.292h8.751a7.293,7.293,0,0,0,7.292-7.292V7.292A7.293,7.293,0,0,0,16.043,0Zm5.1,16.043a5.11,5.11,0,0,1-5.1,5.1H7.292a5.11,5.11,0,0,1-5.1-5.1V7.292a5.11,5.11,0,0,1,5.1-5.1h8.751a5.11,5.11,0,0,1,5.1,5.1Z"/>
+      </g>
+    </g>
+    <g id="Group_145" data-name="Group 145" transform="translate(5.548 5.548)">
+      <g id="Group_144" data-name="Group 144">
+        <path id="Path_250" data-name="Path 250" class="cls-2" d="M134.12,128a6.12,6.12,0,1,0,6.12,6.12A6.12,6.12,0,0,0,134.12,128Zm0,9.944a3.825,3.825,0,1,1,3.825-3.825A3.83,3.83,0,0,1,134.12,137.944Z" transform="translate(-128 -128)"/>
+      </g>
+    </g>
+    <g id="Group_147" data-name="Group 147" transform="translate(17.102 4.603)">
+      <g id="Group_146" data-name="Group 146">
+        <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="0.815" cy="0.815" r="0.815"/>
+      </g>
+    </g>
+  </g>
+</svg>

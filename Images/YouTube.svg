@@ -1,0 +1,33 @@
+<svg id="YouTube" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.184 50.185">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #344356;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #344356;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="YouTube-2" data-name="YouTube" transform="translate(0 0)">
+    <g id="Twitter">
+      <g id="Ellipse_3" data-name="Ellipse 3" class="cls-1">
+        <circle class="cls-3" cx="25.092" cy="25.092" r="25.092"/>
+        <circle class="cls-4" cx="25.092" cy="25.092" r="23.592"/>
+      </g>
+    </g>
+  </g>
+  <g id="youtube-play-button" transform="translate(14.855 18.336)">
+    <path id="YouTube__x28_alt_x29_" class="cls-2" d="M21.576,16.726A3.225,3.225,0,0,0,18.351,13.5H3.224A3.225,3.225,0,0,0,0,16.726v8.65A3.225,3.225,0,0,0,3.224,28.6H18.351a3.225,3.225,0,0,0,3.224-3.226ZM8.63,24.7V16.576l6.162,4.063Z" transform="translate(0 -13.5)"/>
+  </g>
+</svg>

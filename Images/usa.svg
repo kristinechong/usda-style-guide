@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #f0f0f0;
+      }
+
+      .cls-3 {
+        fill: #d80027;
+      }
+
+      .cls-4 {
+        fill: #344356;
+      }
+    </style>
+  </defs>
+  <g id="usa" transform="translate(17922 -4386)">
+    <rect id="Rectangle_1533" data-name="Rectangle 1533" class="cls-1" width="50" height="50" transform="translate(-17922 4386)"/>
+    <g id="united-states-of-america" transform="translate(-17922 4395)">
+      <rect id="Rectangle_145" data-name="Rectangle 145" class="cls-2" width="49.357" height="32.905" transform="translate(0 0)"/>
+      <g id="Group_140" data-name="Group 140" transform="translate(0 4.062)">
+        <rect id="Rectangle_146" data-name="Rectangle 146" class="cls-3" width="49.357" height="4.062"/>
+        <rect id="Rectangle_147" data-name="Rectangle 147" class="cls-3" width="49.357" height="4.062" transform="translate(0 8.27)"/>
+        <rect id="Rectangle_148" data-name="Rectangle 148" class="cls-3" width="49.357" height="4.062" transform="translate(0 16.51)"/>
+        <rect id="Rectangle_149" data-name="Rectangle 149" class="cls-3" width="49.357" height="4.062" transform="translate(0 24.78)"/>
+      </g>
+      <rect id="Rectangle_150" data-name="Rectangle 150" class="cls-4" width="24.373" height="17.499" transform="translate(0 0)"/>
+      <g id="Group_141" data-name="Group 141" transform="translate(2.475 2.81)">
+        <path id="Path_230" data-name="Path 230" class="cls-2" d="M84.025,160.624l-.393,1.208h-1.27l1.027.746L83,163.785l1.027-.746,1.027.746-.392-1.208,1.027-.746h-1.27Z" transform="translate(-76.997 -156.266)"/>
+        <path id="Path_231" data-name="Path 231" class="cls-2" d="M84.417,207.6l-.392-1.208-.393,1.208h-1.27l1.027.746L83,209.558l1.027-.746,1.027.746-.392-1.207,1.027-.746Z" transform="translate(-76.997 -197.681)"/>
+        <path id="Path_232" data-name="Path 232" class="cls-2" d="M28.055,207.6l-.392-1.208-.393,1.208H26l1.027.746-.393,1.207,1.027-.746,1.027.746-.392-1.207,1.027-.746Z" transform="translate(-26.001 -197.681)"/>
+        <path id="Path_233" data-name="Path 233" class="cls-2" d="M27.663,160.624l-.393,1.208H26l1.027.746-.393,1.208,1.027-.746,1.027.746-.392-1.208,1.027-.746h-1.27Z" transform="translate(-26.001 -156.266)"/>
+        <path id="Path_234" data-name="Path 234" class="cls-2" d="M84.025,114.85l-.393,1.208h-1.27l1.027.746L83,118.011l1.027-.746,1.027.746L84.66,116.8l1.027-.746h-1.27Z" transform="translate(-76.997 -114.85)"/>
+        <path id="Path_235" data-name="Path 235" class="cls-2" d="M27.663,114.85l-.393,1.208H26l1.027.746-.393,1.208,1.027-.746,1.027.746L28.3,116.8l1.027-.746h-1.27Z" transform="translate(-26.001 -114.85)"/>
+        <path id="Path_236" data-name="Path 236" class="cls-2" d="M140.387,160.624l-.392,1.208h-1.27l1.027.746-.392,1.208,1.027-.746,1.027.746-.393-1.208,1.027-.746h-1.27Z" transform="translate(-127.993 -156.266)"/>
+        <path id="Path_237" data-name="Path 237" class="cls-2" d="M140.779,207.6l-.392-1.208-.392,1.208h-1.27l1.027.746-.392,1.207,1.027-.746,1.027.746-.393-1.207,1.027-.746Z" transform="translate(-127.993 -197.681)"/>
+        <path id="Path_238" data-name="Path 238" class="cls-2" d="M197.142,207.6l-.392-1.208-.393,1.208h-1.27l1.027.746-.392,1.207,1.027-.746,1.027.746-.393-1.207,1.027-.746Z" transform="translate(-178.99 -197.681)"/>
+        <path id="Path_239" data-name="Path 239" class="cls-2" d="M196.75,160.624l-.393,1.208h-1.27l1.027.746-.392,1.208,1.027-.746,1.027.746-.393-1.208,1.027-.746h-1.27Z" transform="translate(-178.99 -156.266)"/>
+        <path id="Path_240" data-name="Path 240" class="cls-2" d="M140.387,114.85l-.392,1.208h-1.27l1.027.746-.392,1.208,1.027-.746,1.027.746-.393-1.208,1.027-.746h-1.27Z" transform="translate(-127.993 -114.85)"/>
+        <path id="Path_241" data-name="Path 241" class="cls-2" d="M196.75,114.85l-.393,1.208h-1.27l1.027.746-.392,1.208,1.027-.746,1.027.746-.393-1.208,1.027-.746h-1.27Z" transform="translate(-178.99 -114.85)"/>
+      </g>
+    </g>
+  </g>
+</svg>
