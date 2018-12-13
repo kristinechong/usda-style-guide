@@ -59,51 +59,6 @@
     padding: 30px;
 }
 
-
-/* .aside {
-    height: 100%;
-    max-width: 20%;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: whitesmoke;
-    overflow-x: hidden;
-    padding: 40px 30px 40px 30px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 14px;
-    line-height: 150%;
-} */
-
-/* .aside a {
-    padding: 10px 20px 10px 20px;
-    text-decoration: none;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 16px;
-    color: #818181;
-    display: block;
-}
-    
-.aside a:hover {
-    color: #333333;
-} */
-/* 
-.section-content {
-    display: inline-block;
-    vertical-align: top;
-    height: 100%;
-    max-width: 75%;
-    padding: 0% 0% 0% 25%;
-    overflow: auto;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.Guidelines {
-    padding: 20px 50px 20px 50px;
-    height: 100%;
-    position: relative;
-} */
-
 /* ----------------------
         LOGOS
 ---------------------- */
@@ -120,19 +75,6 @@
     padding: 10px 20px 10px 20px;
 }
 
-/*   
-.image {
-    width: auto;
-    max-height: 100px;
-    display: inline-block;
-    padding: 25px 55px 5px 5px;
-  }
-
-.clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
-  } */
 
 /* ----------------------
         TYPOGRAPHY
@@ -361,7 +303,6 @@
   /* ----------------------
         IMAGERY
 ---------------------- */
-
 .row-container-around {
     width: 100%;
     display: flex;
@@ -400,6 +341,11 @@
 
 .row-container-center img {
     padding: 10px 5px 10px 5px;
+    cursor: pointer;
+}
+
+.row-container-center img:hover {
+    cursor: pointer;
 }
 
 
@@ -414,8 +360,24 @@ BONUS: Sets up styles for mobile breakpoint
     display: none;
  }
 
- /* Sets media query for screens below 450px wide */
- @media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1225px) {
+
+    .row-01 img {
+        width: 90%;
+        height: 90%;
+    }
+
+    .row-02 img {
+        width: 40%;
+        height: 40%;
+    }
+
+    .row-03 img {
+        width: 40%;
+        height: 40%;
+    }
+
+@media only screen and (max-width: 768px) {
 
     .row-01 img {
         width: 90%;
@@ -427,7 +389,6 @@ BONUS: Sets up styles for mobile breakpoint
         height: 90%;
     }
 
- /* Sets media query for screens below 450px wide */
 @media only screen and (max-width: 450px) {
 
     /* Shows Mobile Navigation Styles  */
@@ -453,12 +414,12 @@ BONUS: Sets up styles for mobile breakpoint
         padding: 15px 0px 15px 0px;
     }
 
-    /* Hides Sidebar on mobile */
+    /* Hides Sidebar on Mobile */
     .sidebar-container {
        display: none;
     }
   
-    /* Defines mobile container content */
+    /* Mobile Container Content */
     .section-container {
         /* background: lightskyblue; */
         margin-left: 0px;
@@ -472,21 +433,16 @@ BONUS: Sets up styles for mobile breakpoint
         margin: 0px -20px 0px -20px;
     }
 
-    /* Sets Button Style */
-    /* .button-item {
-    padding: 5px 5px 5px 0px;
-} */
-
-    /* Sets Icon Style  */
+    /* Icon Style */
     .icons img {
     padding: 0px 10px 5px 0px;
   }
 
-    /* Sets Type Styles */
+    /* Type Style */
     h1 {font-size: 1.6em;
     }
 
-    /* Sets Imagery Size */
+    /* Imagery Spacing */
     .row-container-around img {
         width: 100%;
         height: 100%;
